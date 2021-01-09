@@ -1,0 +1,13 @@
+C:\Users\Qvor\source\repos\NeedforSpeed\NeedforSpeed\bin\Debug\netcoreapp3.1\NeedforSpeed.exe
+C:\Users\Qvor\source\repos\NeedforSpeed\NeedforSpeed\bin\Debug\netcoreapp3.1\NeedforSpeed.deps.json
+C:\Users\Qvor\source\repos\NeedforSpeed\NeedforSpeed\bin\Debug\netcoreapp3.1\NeedforSpeed.runtimeconfig.json
+C:\Users\Qvor\source\repos\NeedforSpeed\NeedforSpeed\bin\Debug\netcoreapp3.1\NeedforSpeed.runtimeconfig.dev.json
+C:\Users\Qvor\source\repos\NeedforSpeed\NeedforSpeed\bin\Debug\netcoreapp3.1\NeedforSpeed.dll
+C:\Users\Qvor\source\repos\NeedforSpeed\NeedforSpeed\bin\Debug\netcoreapp3.1\NeedforSpeed.pdb
+C:\Users\Qvor\source\repos\NeedforSpeed\NeedforSpeed\obj\Debug\netcoreapp3.1\NeedforSpeed.csprojAssemblyReference.cache
+C:\Users\Qvor\source\repos\NeedforSpeed\NeedforSpeed\obj\Debug\netcoreapp3.1\NeedforSpeed.AssemblyInfoInputs.cache
+C:\Users\Qvor\source\repos\NeedforSpeed\NeedforSpeed\obj\Debug\netcoreapp3.1\NeedforSpeed.AssemblyInfo.cs
+C:\Users\Qvor\source\repos\NeedforSpeed\NeedforSpeed\obj\Debug\netcoreapp3.1\NeedforSpeed.csproj.CoreCompileInputs.cache
+C:\Users\Qvor\source\repos\NeedforSpeed\NeedforSpeed\obj\Debug\netcoreapp3.1\NeedforSpeed.dll
+C:\Users\Qvor\source\repos\NeedforSpeed\NeedforSpeed\obj\Debug\netcoreapp3.1\NeedforSpeed.pdb
+C:\Users\Qvor\source\repos\NeedforSpeed\NeedforSpeed\obj\Debug\netcoreapp3.1\NeedforSpeed.genruntimeconfig.cache
