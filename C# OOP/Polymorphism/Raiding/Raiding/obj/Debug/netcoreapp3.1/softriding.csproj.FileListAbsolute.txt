@@ -1,0 +1,13 @@
+C:\Users\Qvor\softuni\C# OOP\Polymorphism\Raiding\Raiding\bin\Debug\netcoreapp3.1\softriding.exe
+C:\Users\Qvor\softuni\C# OOP\Polymorphism\Raiding\Raiding\bin\Debug\netcoreapp3.1\softriding.deps.json
+C:\Users\Qvor\softuni\C# OOP\Polymorphism\Raiding\Raiding\bin\Debug\netcoreapp3.1\softriding.runtimeconfig.json
+C:\Users\Qvor\softuni\C# OOP\Polymorphism\Raiding\Raiding\bin\Debug\netcoreapp3.1\softriding.runtimeconfig.dev.json
+C:\Users\Qvor\softuni\C# OOP\Polymorphism\Raiding\Raiding\bin\Debug\netcoreapp3.1\softriding.dll
+C:\Users\Qvor\softuni\C# OOP\Polymorphism\Raiding\Raiding\bin\Debug\netcoreapp3.1\softriding.pdb
+C:\Users\Qvor\softuni\C# OOP\Polymorphism\Raiding\Raiding\obj\Debug\netcoreapp3.1\softriding.csprojAssemblyReference.cache
+C:\Users\Qvor\softuni\C# OOP\Polymorphism\Raiding\Raiding\obj\Debug\netcoreapp3.1\softriding.AssemblyInfoInputs.cache
+C:\Users\Qvor\softuni\C# OOP\Polymorphism\Raiding\Raiding\obj\Debug\netcoreapp3.1\softriding.AssemblyInfo.cs
+C:\Users\Qvor\softuni\C# OOP\Polymorphism\Raiding\Raiding\obj\Debug\netcoreapp3.1\softriding.csproj.CoreCompileInputs.cache
+C:\Users\Qvor\softuni\C# OOP\Polymorphism\Raiding\Raiding\obj\Debug\netcoreapp3.1\softriding.dll
+C:\Users\Qvor\softuni\C# OOP\Polymorphism\Raiding\Raiding\obj\Debug\netcoreapp3.1\softriding.pdb
+C:\Users\Qvor\softuni\C# OOP\Polymorphism\Raiding\Raiding\obj\Debug\netcoreapp3.1\softriding.genruntimeconfig.cache
