@@ -1,0 +1,12 @@
+C:\Users\Qvor\Desktop\12. Csharp-OOP-Snake-Workshop-SimpleSnake-Skeleton\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.csprojAssemblyReference.cache
+C:\Users\Qvor\Desktop\12. Csharp-OOP-Snake-Workshop-SimpleSnake-Skeleton\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.AssemblyInfoInputs.cache
+C:\Users\Qvor\Desktop\12. Csharp-OOP-Snake-Workshop-SimpleSnake-Skeleton\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.AssemblyInfo.cs
+C:\Users\Qvor\Desktop\12. Csharp-OOP-Snake-Workshop-SimpleSnake-Skeleton\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.csproj.CoreCompileInputs.cache
+C:\Users\Qvor\Desktop\12. Csharp-OOP-Snake-Workshop-SimpleSnake-Skeleton\SimpleSnake\bin\Debug\netcoreapp2.1\SimpleSnake.deps.json
+C:\Users\Qvor\Desktop\12. Csharp-OOP-Snake-Workshop-SimpleSnake-Skeleton\SimpleSnake\bin\Debug\netcoreapp2.1\SimpleSnake.runtimeconfig.json
+C:\Users\Qvor\Desktop\12. Csharp-OOP-Snake-Workshop-SimpleSnake-Skeleton\SimpleSnake\bin\Debug\netcoreapp2.1\SimpleSnake.runtimeconfig.dev.json
+C:\Users\Qvor\Desktop\12. Csharp-OOP-Snake-Workshop-SimpleSnake-Skeleton\SimpleSnake\bin\Debug\netcoreapp2.1\SimpleSnake.dll
+C:\Users\Qvor\Desktop\12. Csharp-OOP-Snake-Workshop-SimpleSnake-Skeleton\SimpleSnake\bin\Debug\netcoreapp2.1\SimpleSnake.pdb
+C:\Users\Qvor\Desktop\12. Csharp-OOP-Snake-Workshop-SimpleSnake-Skeleton\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.dll
+C:\Users\Qvor\Desktop\12. Csharp-OOP-Snake-Workshop-SimpleSnake-Skeleton\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.pdb
+C:\Users\Qvor\Desktop\12. Csharp-OOP-Snake-Workshop-SimpleSnake-Skeleton\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.genruntimeconfig.cache
