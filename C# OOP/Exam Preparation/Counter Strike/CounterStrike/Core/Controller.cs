@@ -97,7 +97,7 @@ namespace CounterStrike.Core
             StringBuilder sb = new StringBuilder();
             foreach (Player playerche in sortedPlayers)
             {
-                sb.AppendLine(playerche.AboutMe());
+                sb.AppendLine(playerche.ToString());
             }
             return sb.ToString().TrimEnd();
         }

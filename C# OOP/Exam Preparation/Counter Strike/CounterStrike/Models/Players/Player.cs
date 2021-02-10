@@ -53,6 +53,7 @@ namespace CounterStrike.Models.Players
                 {
                     throw new ArgumentException(ExceptionMessages.InvalidPlayerHealth);
                 }
+               
                 this._helath = value;
             }
         }
@@ -74,6 +75,18 @@ namespace CounterStrike.Models.Players
             }
         }
         public string AboutMe()
+        {
+            StringBuilder sb = new StringBuilder();
+
+            sb.AppendLine($"{this.GetType().Name}: {this.Username}");
+            sb.AppendLine($"--Health: {this.Health}");
+            sb.AppendLine($"--Armor: {this.Armor}");
+            sb.AppendLine($"Gun: {this.Gun.Name}");
+
+            return sb.ToString().Trim();
+        }
+
+        public override string ToString()
         {
             StringBuilder sb = new StringBuilder();
 
@@ -121,11 +134,16 @@ namespace CounterStrike.Models.Players
                 this._armor = 0;
             }
 
-            this.Health -= points;
-            if(this.Health < 0)
+            
+            if(this.Health - points < 0)
             {
                 this.Health = 0;
             }
+            else
+            {
+                this.Health -= points;
+            }
+
         }
     }
 }

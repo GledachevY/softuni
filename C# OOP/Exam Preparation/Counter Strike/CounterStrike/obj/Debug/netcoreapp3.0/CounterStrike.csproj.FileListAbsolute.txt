@@ -11,3 +11,16 @@ C:\Users\Qvor\Desktop\01. Structure_Skeleton\CounterStrike\obj\Debug\netcoreapp3
 C:\Users\Qvor\Desktop\01. Structure_Skeleton\CounterStrike\obj\Debug\netcoreapp3.0\CounterStrike.dll
 C:\Users\Qvor\Desktop\01. Structure_Skeleton\CounterStrike\obj\Debug\netcoreapp3.0\CounterStrike.pdb
 C:\Users\Qvor\Desktop\01. Structure_Skeleton\CounterStrike\obj\Debug\netcoreapp3.0\CounterStrike.genruntimeconfig.cache
+C:\Users\Qvor\softuni\C# OOP\Exam Preparation\Counter Strike\CounterStrike\bin\Debug\netcoreapp3.0\CounterStrike.exe
+C:\Users\Qvor\softuni\C# OOP\Exam Preparation\Counter Strike\CounterStrike\bin\Debug\netcoreapp3.0\CounterStrike.deps.json
+C:\Users\Qvor\softuni\C# OOP\Exam Preparation\Counter Strike\CounterStrike\bin\Debug\netcoreapp3.0\CounterStrike.runtimeconfig.json
+C:\Users\Qvor\softuni\C# OOP\Exam Preparation\Counter Strike\CounterStrike\bin\Debug\netcoreapp3.0\CounterStrike.runtimeconfig.dev.json
+C:\Users\Qvor\softuni\C# OOP\Exam Preparation\Counter Strike\CounterStrike\bin\Debug\netcoreapp3.0\CounterStrike.dll
+C:\Users\Qvor\softuni\C# OOP\Exam Preparation\Counter Strike\CounterStrike\bin\Debug\netcoreapp3.0\CounterStrike.pdb
+C:\Users\Qvor\softuni\C# OOP\Exam Preparation\Counter Strike\CounterStrike\obj\Debug\netcoreapp3.0\CounterStrike.csprojAssemblyReference.cache
+C:\Users\Qvor\softuni\C# OOP\Exam Preparation\Counter Strike\CounterStrike\obj\Debug\netcoreapp3.0\CounterStrike.AssemblyInfoInputs.cache
+C:\Users\Qvor\softuni\C# OOP\Exam Preparation\Counter Strike\CounterStrike\obj\Debug\netcoreapp3.0\CounterStrike.AssemblyInfo.cs
+C:\Users\Qvor\softuni\C# OOP\Exam Preparation\Counter Strike\CounterStrike\obj\Debug\netcoreapp3.0\CounterStrike.csproj.CoreCompileInputs.cache
+C:\Users\Qvor\softuni\C# OOP\Exam Preparation\Counter Strike\CounterStrike\obj\Debug\netcoreapp3.0\CounterStrike.dll
+C:\Users\Qvor\softuni\C# OOP\Exam Preparation\Counter Strike\CounterStrike\obj\Debug\netcoreapp3.0\CounterStrike.pdb
+C:\Users\Qvor\softuni\C# OOP\Exam Preparation\Counter Strike\CounterStrike\obj\Debug\netcoreapp3.0\CounterStrike.genruntimeconfig.cache

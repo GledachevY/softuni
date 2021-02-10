@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Qvor\\Desktop\\01. Structure_Skeleton\\CounterStrike\\CounterStrike.csproj",
+      "projectUniqueName": "C:\\Users\\Qvor\\softuni\\C# OOP\\Exam Preparation\\Counter Strike\\CounterStrike\\CounterStrike.csproj",
       "projectName": "CounterStrike",
-      "projectPath": "C:\\Users\\Qvor\\Desktop\\01. Structure_Skeleton\\CounterStrike\\CounterStrike.csproj",
+      "projectPath": "C:\\Users\\Qvor\\softuni\\C# OOP\\Exam Preparation\\Counter Strike\\CounterStrike\\CounterStrike.csproj",
       "packagesPath": "C:\\Users\\Qvor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Qvor\\Desktop\\01. Structure_Skeleton\\CounterStrike\\obj\\",
+      "outputPath": "C:\\Users\\Qvor\\softuni\\C# OOP\\Exam Preparation\\Counter Strike\\CounterStrike\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
