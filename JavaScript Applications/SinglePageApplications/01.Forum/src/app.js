@@ -1,11 +1,9 @@
-import { addTopic } from './addTopic.js';
+import { addTopic, cancelBtn } from './addTopic.js';
 import { showTopics } from './showPost.js';
+import {addComment} from './addCommentOnTopic.js'
 
 await addTopic();
 await showTopics();
+addComment();
+cancelBtn();
 
-let date = Date.now();
-date = new Date(date);
-date = date.toDateString();
-
-console.log(date);

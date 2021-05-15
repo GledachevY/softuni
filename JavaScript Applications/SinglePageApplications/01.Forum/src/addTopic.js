@@ -1,3 +1,17 @@
+import {showTopics} from './showPost.js'
+
+function cleatInputFIelds() {
+    document.getElementById('topicName').value = '';
+        document.getElementById('username').value = '';
+        document.getElementById('postText').value = '';
+}
+function cancelBtn() {
+    document.getElementById('cancelBtn').addEventListener('click', (e)=>{
+        e.preventDefault();
+        cleatInputFIelds();
+    })
+}
+
 async function addTopic() {
 
 
@@ -13,6 +27,8 @@ async function addTopic() {
         date = new Date(date);
         date = date.toDateString();
 
+        cleatInputFIelds();
+
         const url = 'http://localhost:3030/jsonstore/collections/myboard/posts';
         const response = fetch(url, {
             method: 'post',
@@ -21,10 +37,12 @@ async function addTopic() {
 
         })
 
+         showTopics();
+
     })
 
 
 
 }
 
-export { addTopic };
+export { addTopic,cancelBtn};
