@@ -1,7 +1,7 @@
 import { html } from '../../node_modules/lit-html/lit-html.js';
-import {getListingById} from '../api/data.js'
+import {getListingById, deleteListing} from '../api/data.js'
 
-const htmlElement = (data,showBtns) => html`<!-- Listing Details Page -->
+const htmlElement = (data,id,onDelete) => html`<!-- Listing Details Page -->
 <section id="listing-details">
     <h1>Details</h1>
     <div class="details-info">
@@ -17,8 +17,8 @@ const htmlElement = (data,showBtns) => html`<!-- Listing Details Page -->
         <p class="description-para">${data.description}</p>
 
         ${(data._ownerId == sessionStorage.getItem('userId')? html`<div class="listings-buttons">
-            <a href="#" class="button-list">Edit</a>
-            <a href="#" class="button-list">Delete</a>
+            <a href=${`/editListing/${id}`} class="button-list">Edit</a>
+            <a @click=${onDelete} href="javascript:void(0)" class="button-list">Delete</a>
         </div>`:'')}
         
     </div>
@@ -27,6 +27,11 @@ const htmlElement = (data,showBtns) => html`<!-- Listing Details Page -->
 export async function details(ctx) {
     const id = ctx.params.id;
     const data =await getListingById(id);
-    const showBtns = sessionStorage.length>1;
-    ctx.render(htmlElement(data,showBtns));
+    
+    ctx.render(htmlElement(data,id, onDelete));
+
+    async function onDelete(e){
+        await deleteListing(id);
+        ctx.page.redirect('/allListings');
+    }
 }

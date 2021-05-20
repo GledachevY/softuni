@@ -10,6 +10,7 @@ import { logIn } from './views/loginView.js'
 import { myListing } from './views/myListingsView.js'
 import { register } from './views/registerView.js'
 import { details } from './views/detailsView.js'
+import { editListing } from './views/editListingView.js'
 
 window.api = api;
 
@@ -26,6 +27,7 @@ page('/createListing', renderMiddleware, createListing);
 page('/login', renderMiddleware, logIn);
 page('/register', renderMiddleware, register);
 page('/data/cars/:id', renderMiddleware, details);
+page('/editListing/:id', renderMiddleware, editListing);
 
 SetNavBar();
 page.start();

@@ -26,6 +26,12 @@ export async function getMyListings(){
     return myListings;
 }
 
+export async function getListingsByYear(year){
+    const data = await getAllListings();
+
+    return data.filter(l => l.year == year);
+}
+
 export async function createListing(data){
     return await api.post('/data/cars',data);
 }
