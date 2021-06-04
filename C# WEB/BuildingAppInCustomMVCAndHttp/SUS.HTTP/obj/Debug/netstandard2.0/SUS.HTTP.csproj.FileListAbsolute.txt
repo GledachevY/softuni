@@ -1,9 +1,0 @@
-C:\Users\Yavor\Desktop\exam prep\SUS.HTTP\bin\Debug\netstandard2.0\SUS.HTTP.deps.json
-C:\Users\Yavor\Desktop\exam prep\SUS.HTTP\bin\Debug\netstandard2.0\SUS.HTTP.dll
-C:\Users\Yavor\Desktop\exam prep\SUS.HTTP\bin\Debug\netstandard2.0\SUS.HTTP.pdb
-C:\Users\Yavor\Desktop\exam prep\SUS.HTTP\obj\Debug\netstandard2.0\SUS.HTTP.csprojAssemblyReference.cache
-C:\Users\Yavor\Desktop\exam prep\SUS.HTTP\obj\Debug\netstandard2.0\SUS.HTTP.AssemblyInfoInputs.cache
-C:\Users\Yavor\Desktop\exam prep\SUS.HTTP\obj\Debug\netstandard2.0\SUS.HTTP.AssemblyInfo.cs
-C:\Users\Yavor\Desktop\exam prep\SUS.HTTP\obj\Debug\netstandard2.0\SUS.HTTP.csproj.CoreCompileInputs.cache
-C:\Users\Yavor\Desktop\exam prep\SUS.HTTP\obj\Debug\netstandard2.0\SUS.HTTP.dll
-C:\Users\Yavor\Desktop\exam prep\SUS.HTTP\obj\Debug\netstandard2.0\SUS.HTTP.pdb
