@@ -19,7 +19,7 @@ namespace SharedTrip.Data
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer(@"Server=DESKTOP-QRJ3J9I\SQLEXPRESS;Database=SharedTrip;Integrated Security=True;");
+                //connectionstring
             }
         }
 
