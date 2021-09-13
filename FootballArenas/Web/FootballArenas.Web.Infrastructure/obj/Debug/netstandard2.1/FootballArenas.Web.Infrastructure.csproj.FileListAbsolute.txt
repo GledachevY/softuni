@@ -1,0 +1,8 @@
+C:\Users\Yavor\source\repos\FootballArenas\Web\FootballArenas.Web.Infrastructure\bin\Debug\netstandard2.1\FootballArenas.Web.Infrastructure.deps.json
+C:\Users\Yavor\source\repos\FootballArenas\Web\FootballArenas.Web.Infrastructure\bin\Debug\netstandard2.1\FootballArenas.Web.Infrastructure.dll
+C:\Users\Yavor\source\repos\FootballArenas\Web\FootballArenas.Web.Infrastructure\bin\Debug\netstandard2.1\FootballArenas.Web.Infrastructure.pdb
+C:\Users\Yavor\source\repos\FootballArenas\Web\FootballArenas.Web.Infrastructure\obj\Debug\netstandard2.1\FootballArenas.Web.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Yavor\source\repos\FootballArenas\Web\FootballArenas.Web.Infrastructure\obj\Debug\netstandard2.1\FootballArenas.Web.Infrastructure.AssemblyInfo.cs
+C:\Users\Yavor\source\repos\FootballArenas\Web\FootballArenas.Web.Infrastructure\obj\Debug\netstandard2.1\FootballArenas.Web.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Yavor\source\repos\FootballArenas\Web\FootballArenas.Web.Infrastructure\obj\Debug\netstandard2.1\FootballArenas.Web.Infrastructure.dll
+C:\Users\Yavor\source\repos\FootballArenas\Web\FootballArenas.Web.Infrastructure\obj\Debug\netstandard2.1\FootballArenas.Web.Infrastructure.pdb

@@ -1,0 +1,12 @@
+C:\Users\Yavor\source\repos\FootballArenas\Data\FootballArenas.Data.Models\bin\Debug\netstandard2.1\FootballArenas.Data.Models.deps.json
+C:\Users\Yavor\source\repos\FootballArenas\Data\FootballArenas.Data.Models\bin\Debug\netstandard2.1\FootballArenas.Data.Models.dll
+C:\Users\Yavor\source\repos\FootballArenas\Data\FootballArenas.Data.Models\bin\Debug\netstandard2.1\FootballArenas.Data.Models.pdb
+C:\Users\Yavor\source\repos\FootballArenas\Data\FootballArenas.Data.Models\bin\Debug\netstandard2.1\FootballArenas.Data.Common.dll
+C:\Users\Yavor\source\repos\FootballArenas\Data\FootballArenas.Data.Models\bin\Debug\netstandard2.1\FootballArenas.Data.Common.pdb
+C:\Users\Yavor\source\repos\FootballArenas\Data\FootballArenas.Data.Models\obj\Debug\netstandard2.1\FootballArenas.Data.Models.csproj.AssemblyReference.cache
+C:\Users\Yavor\source\repos\FootballArenas\Data\FootballArenas.Data.Models\obj\Debug\netstandard2.1\FootballArenas.Data.Models.AssemblyInfoInputs.cache
+C:\Users\Yavor\source\repos\FootballArenas\Data\FootballArenas.Data.Models\obj\Debug\netstandard2.1\FootballArenas.Data.Models.AssemblyInfo.cs
+C:\Users\Yavor\source\repos\FootballArenas\Data\FootballArenas.Data.Models\obj\Debug\netstandard2.1\FootballArenas.Data.Models.csproj.CoreCompileInputs.cache
+C:\Users\Yavor\source\repos\FootballArenas\Data\FootballArenas.Data.Models\obj\Debug\netstandard2.1\FootballArenas.Data.Models.csproj.CopyComplete
+C:\Users\Yavor\source\repos\FootballArenas\Data\FootballArenas.Data.Models\obj\Debug\netstandard2.1\FootballArenas.Data.Models.dll
+C:\Users\Yavor\source\repos\FootballArenas\Data\FootballArenas.Data.Models\obj\Debug\netstandard2.1\FootballArenas.Data.Models.pdb

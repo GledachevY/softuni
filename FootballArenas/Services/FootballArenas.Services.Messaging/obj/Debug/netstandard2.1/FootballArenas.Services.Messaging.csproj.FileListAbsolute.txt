@@ -1,0 +1,9 @@
+C:\Users\Yavor\source\repos\FootballArenas\Services\FootballArenas.Services.Messaging\bin\Debug\netstandard2.1\FootballArenas.Services.Messaging.deps.json
+C:\Users\Yavor\source\repos\FootballArenas\Services\FootballArenas.Services.Messaging\bin\Debug\netstandard2.1\FootballArenas.Services.Messaging.dll
+C:\Users\Yavor\source\repos\FootballArenas\Services\FootballArenas.Services.Messaging\bin\Debug\netstandard2.1\FootballArenas.Services.Messaging.pdb
+C:\Users\Yavor\source\repos\FootballArenas\Services\FootballArenas.Services.Messaging\obj\Debug\netstandard2.1\FootballArenas.Services.Messaging.csproj.AssemblyReference.cache
+C:\Users\Yavor\source\repos\FootballArenas\Services\FootballArenas.Services.Messaging\obj\Debug\netstandard2.1\FootballArenas.Services.Messaging.AssemblyInfoInputs.cache
+C:\Users\Yavor\source\repos\FootballArenas\Services\FootballArenas.Services.Messaging\obj\Debug\netstandard2.1\FootballArenas.Services.Messaging.AssemblyInfo.cs
+C:\Users\Yavor\source\repos\FootballArenas\Services\FootballArenas.Services.Messaging\obj\Debug\netstandard2.1\FootballArenas.Services.Messaging.csproj.CoreCompileInputs.cache
+C:\Users\Yavor\source\repos\FootballArenas\Services\FootballArenas.Services.Messaging\obj\Debug\netstandard2.1\FootballArenas.Services.Messaging.dll
+C:\Users\Yavor\source\repos\FootballArenas\Services\FootballArenas.Services.Messaging\obj\Debug\netstandard2.1\FootballArenas.Services.Messaging.pdb

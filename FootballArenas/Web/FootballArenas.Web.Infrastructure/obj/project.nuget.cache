@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "hRDci/Pbm4/53EeViH2YFzixfFTRb26T3QS5E1RmwG2FeoQhlVuTRuklUfR+E3PkbU3cWtuXWYYnfVnrZL+lSA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Yavor\\source\\repos\\FootballArenas\\Web\\FootballArenas.Web.Infrastructure\\FootballArenas.Web.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yavor\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.312\\stylecop.analyzers.1.2.0-beta.312.nupkg.sha512",
+    "C:\\Users\\Yavor\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.312\\stylecop.analyzers.unstable.1.2.0.312.nupkg.sha512"
+  ],
+  "logs": []
+}

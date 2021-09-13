@@ -1,0 +1,18 @@
+﻿@model FootballArenas.Web.ViewModels.SportComplexViewModels.SportComplexInputViewModel
+@{
+    ViewData["Title"] = "Upload new images";
+}
+
+<form asp-controller="SportComplex" asp-action="UploadNewImages" enctype="multipart/form-data">
+    <div class="form-group">
+        <label asp-for="Images"></label>
+        <input asp-for="Images" class="form-control">
+        <span asp-validation-for="Images" class="text-danger"></span>
+    </div>
+
+    <input asp-for="Id" type="hidden" />
+
+    <div class="form-group">
+        <input type="submit" />
+    </div>
+</form>

@@ -1,0 +1,4 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/Identity" Path="C:\Users\Yavor\.nuget\packages\microsoft.aspnetcore.identity.ui\5.0.7\staticwebassets\V4\" />
+  <ContentRoot BasePath="_content/FootballArenas.Web" Path="C:\Users\Yavor\source\repos\FootballArenas\Web\FootballArenas.Web\wwwroot\" />
+</StaticWebAssets>

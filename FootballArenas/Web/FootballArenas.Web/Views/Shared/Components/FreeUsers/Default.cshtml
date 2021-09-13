@@ -1,0 +1,11 @@
+﻿@model FootballArenas.Web.ViewModels.SportComplexViewModels.SportComplexInputViewModel
+
+@{
+    var usersList = this.Model.Users.Select(x => new SelectListItem(x.UserName, x.UserName));
+}
+
+<div class="form-group">
+    <label asp-for="Username"></label>
+    <select asp-for="Username" class="form-control" rows="5" asp-items="usersList"></select>
+    <span asp-validation-for="Username" class="text-danger"></span>
+</div>

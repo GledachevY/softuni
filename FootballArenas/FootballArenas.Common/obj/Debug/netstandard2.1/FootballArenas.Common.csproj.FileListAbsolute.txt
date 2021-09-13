@@ -1,0 +1,9 @@
+C:\Users\Yavor\source\repos\FootballArenas\FootballArenas.Common\bin\Debug\netstandard2.1\FootballArenas.Common.deps.json
+C:\Users\Yavor\source\repos\FootballArenas\FootballArenas.Common\bin\Debug\netstandard2.1\FootballArenas.Common.dll
+C:\Users\Yavor\source\repos\FootballArenas\FootballArenas.Common\bin\Debug\netstandard2.1\FootballArenas.Common.pdb
+C:\Users\Yavor\source\repos\FootballArenas\FootballArenas.Common\obj\Debug\netstandard2.1\FootballArenas.Common.csproj.AssemblyReference.cache
+C:\Users\Yavor\source\repos\FootballArenas\FootballArenas.Common\obj\Debug\netstandard2.1\FootballArenas.Common.AssemblyInfoInputs.cache
+C:\Users\Yavor\source\repos\FootballArenas\FootballArenas.Common\obj\Debug\netstandard2.1\FootballArenas.Common.AssemblyInfo.cs
+C:\Users\Yavor\source\repos\FootballArenas\FootballArenas.Common\obj\Debug\netstandard2.1\FootballArenas.Common.csproj.CoreCompileInputs.cache
+C:\Users\Yavor\source\repos\FootballArenas\FootballArenas.Common\obj\Debug\netstandard2.1\FootballArenas.Common.dll
+C:\Users\Yavor\source\repos\FootballArenas\FootballArenas.Common\obj\Debug\netstandard2.1\FootballArenas.Common.pdb

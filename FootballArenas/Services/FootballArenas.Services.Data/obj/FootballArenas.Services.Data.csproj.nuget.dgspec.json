@@ -1,0 +1,358 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Yavor\\source\\repos\\FootballArenas\\Services\\FootballArenas.Services.Data\\FootballArenas.Services.Data.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Yavor\\source\\repos\\FootballArenas\\Data\\FootballArenas.Data.Common\\FootballArenas.Data.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Yavor\\source\\repos\\FootballArenas\\Data\\FootballArenas.Data.Common\\FootballArenas.Data.Common.csproj",
+        "projectName": "FootballArenas.Data.Common",
+        "projectPath": "C:\\Users\\Yavor\\source\\repos\\FootballArenas\\Data\\FootballArenas.Data.Common\\FootballArenas.Data.Common.csproj",
+        "packagesPath": "C:\\Users\\Yavor\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Yavor\\source\\repos\\FootballArenas\\Data\\FootballArenas.Data.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Yavor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.2.0-beta.312, )"
+            },
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Yavor\\source\\repos\\FootballArenas\\Data\\FootballArenas.Data.Models\\FootballArenas.Data.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Yavor\\source\\repos\\FootballArenas\\Data\\FootballArenas.Data.Models\\FootballArenas.Data.Models.csproj",
+        "projectName": "FootballArenas.Data.Models",
+        "projectPath": "C:\\Users\\Yavor\\source\\repos\\FootballArenas\\Data\\FootballArenas.Data.Models\\FootballArenas.Data.Models.csproj",
+        "packagesPath": "C:\\Users\\Yavor\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Yavor\\source\\repos\\FootballArenas\\Data\\FootballArenas.Data.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Yavor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\Yavor\\source\\repos\\FootballArenas\\Data\\FootballArenas.Data.Common\\FootballArenas.Data.Common.csproj": {
+                "projectPath": "C:\\Users\\Yavor\\source\\repos\\FootballArenas\\Data\\FootballArenas.Data.Common\\FootballArenas.Data.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.2.0-beta.312, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Yavor\\source\\repos\\FootballArenas\\Services\\FootballArenas.Services.Data\\FootballArenas.Services.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Yavor\\source\\repos\\FootballArenas\\Services\\FootballArenas.Services.Data\\FootballArenas.Services.Data.csproj",
+        "projectName": "FootballArenas.Services.Data",
+        "projectPath": "C:\\Users\\Yavor\\source\\repos\\FootballArenas\\Services\\FootballArenas.Services.Data\\FootballArenas.Services.Data.csproj",
+        "packagesPath": "C:\\Users\\Yavor\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Yavor\\source\\repos\\FootballArenas\\Services\\FootballArenas.Services.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Yavor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\Yavor\\source\\repos\\FootballArenas\\Data\\FootballArenas.Data.Common\\FootballArenas.Data.Common.csproj": {
+                "projectPath": "C:\\Users\\Yavor\\source\\repos\\FootballArenas\\Data\\FootballArenas.Data.Common\\FootballArenas.Data.Common.csproj"
+              },
+              "C:\\Users\\Yavor\\source\\repos\\FootballArenas\\Data\\FootballArenas.Data.Models\\FootballArenas.Data.Models.csproj": {
+                "projectPath": "C:\\Users\\Yavor\\source\\repos\\FootballArenas\\Data\\FootballArenas.Data.Models\\FootballArenas.Data.Models.csproj"
+              },
+              "C:\\Users\\Yavor\\source\\repos\\FootballArenas\\Services\\FootballArenas.Services.Mapping\\FootballArenas.Services.Mapping.csproj": {
+                "projectPath": "C:\\Users\\Yavor\\source\\repos\\FootballArenas\\Services\\FootballArenas.Services.Mapping\\FootballArenas.Services.Mapping.csproj"
+              },
+              "C:\\Users\\Yavor\\source\\repos\\FootballArenas\\Web\\FootballArenas.Web.ViewModels\\FootballArenas.Web.ViewModels.csproj": {
+                "projectPath": "C:\\Users\\Yavor\\source\\repos\\FootballArenas\\Web\\FootballArenas.Web.ViewModels\\FootballArenas.Web.ViewModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.2.0-beta.312, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Yavor\\source\\repos\\FootballArenas\\Services\\FootballArenas.Services.Mapping\\FootballArenas.Services.Mapping.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Yavor\\source\\repos\\FootballArenas\\Services\\FootballArenas.Services.Mapping\\FootballArenas.Services.Mapping.csproj",
+        "projectName": "FootballArenas.Services.Mapping",
+        "projectPath": "C:\\Users\\Yavor\\source\\repos\\FootballArenas\\Services\\FootballArenas.Services.Mapping\\FootballArenas.Services.Mapping.csproj",
+        "packagesPath": "C:\\Users\\Yavor\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Yavor\\source\\repos\\FootballArenas\\Services\\FootballArenas.Services.Mapping\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Yavor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.2.0-beta.312, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Yavor\\source\\repos\\FootballArenas\\Web\\FootballArenas.Web.ViewModels\\FootballArenas.Web.ViewModels.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Yavor\\source\\repos\\FootballArenas\\Web\\FootballArenas.Web.ViewModels\\FootballArenas.Web.ViewModels.csproj",
+        "projectName": "FootballArenas.Web.ViewModels",
+        "projectPath": "C:\\Users\\Yavor\\source\\repos\\FootballArenas\\Web\\FootballArenas.Web.ViewModels\\FootballArenas.Web.ViewModels.csproj",
+        "packagesPath": "C:\\Users\\Yavor\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Yavor\\source\\repos\\FootballArenas\\Web\\FootballArenas.Web.ViewModels\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Yavor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\Yavor\\source\\repos\\FootballArenas\\Data\\FootballArenas.Data.Models\\FootballArenas.Data.Models.csproj": {
+                "projectPath": "C:\\Users\\Yavor\\source\\repos\\FootballArenas\\Data\\FootballArenas.Data.Models\\FootballArenas.Data.Models.csproj"
+              },
+              "C:\\Users\\Yavor\\source\\repos\\FootballArenas\\Services\\FootballArenas.Services.Mapping\\FootballArenas.Services.Mapping.csproj": {
+                "projectPath": "C:\\Users\\Yavor\\source\\repos\\FootballArenas\\Services\\FootballArenas.Services.Mapping\\FootballArenas.Services.Mapping.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.2.0-beta.312, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

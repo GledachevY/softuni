@@ -1,0 +1,50 @@
+﻿@model FootballArenas.Web.ViewModels.SportComplexViewModels.CollectionWithSportComplexesViewModel
+
+@{
+    this.ViewData["Title"] = "Home Page";
+}
+<div class="container">
+    <div class="row">
+        @foreach (var sportComplex in Model.HomePageSportComplexViewModels)
+        {
+            <div class="mt-5">
+                <div class="card bg-success ml-4" style="width: 18rem;">
+                    <img src=@sportComplex.ImagePath class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">@sportComplex.Name</h5>
+                        <p class="card-text">@sportComplex.Description</p>
+                        <div class="p-1">
+                            <a asp-controller="SportComplex" asp-action="SetMainImage" asp-route-id="@sportComplex.Id" class="btn btn-primary">Set main image of complex</a>
+                        </div>
+                        <div class="p-1">
+                            <a asp-controller="SportComplex" asp-action="UploadNewImages" asp-route-id="@sportComplex.Id" class="btn btn-primary">Upload new images</a>
+                        </div>
+                        <div class="p-1">
+                            <a asp-controller="SportComplex" asp-action="EditSportComplex" asp-route-id="@sportComplex.Id" class="btn btn-primary">Edit sport complex</a>
+                        </div>
+                        <div class="p-1">
+                            <a asp-controller="SportComplex" asp-action="DeleteImages" asp-route-id="@sportComplex.Id" class="btn btn-primary">Delete images</a>
+                        </div>
+                        <div class="p-1">
+                            <a onclick="return confirm('Are you sure?');" asp-controller="SportComplex" asp-action="DeleteSportComplex" asp-route-id="@sportComplex.Id" class="btn btn-primary">Delete this sport complex</a>
+                        </div>
+                        <div class="p-1">
+                            <a asp-controller="SportComplex" asp-action="AddFootballFields" asp-route-id="@sportComplex.Id" class="btn btn-primary">Add football fields</a>
+                        </div>
+                        <div class="p-1">
+                            <a asp-controller="SportComplex" asp-action="EditFootballField" asp-route-id="@sportComplex.Id" class="btn btn-primary">Edit football fields</a>
+                        </div>
+                        <div class="p-1">
+                            <a asp-controller="SportComplex" asp-action="DeleteFootballFields" asp-route-id="@sportComplex.Id" class="btn btn-primary">Delete football fields</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>
+
+@section Scripts
+{
+    <script src="js/Confirm.js"></script>
+}

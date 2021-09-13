@@ -1,0 +1,59 @@
+﻿@using FootballArenas.Data.Models.CustomModels
+@model FootballArenas.Web.ViewModels.SportComplexViewModels.SportComplexInputViewModel
+
+@{
+    this.ViewData["Title"] = "Add new sport complex";
+   
+}
+<form asp-controller="SportComplex" asp-action="Add" enctype="multipart/form-data">
+    <div class="form-group" asp-validation-summary="All"></div>
+    <vc:free-users></vc:free-users>
+    <div class="form-group">
+        <label asp-for="Name"></label>
+        <input asp-for="Name" class="form-control">
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="AddressCity"></label>
+        <input asp-for="AddressCity" class="form-control">
+        <span asp-validation-for="AddressCity" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="AddressNumberOfStreet"></label>
+        <input asp-for="AddressNumberOfStreet" class="form-control">
+        <span asp-validation-for="AddressNumberOfStreet" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="AddressStreet"></label>
+        <input asp-for="AddressStreet" class="form-control">
+        <span asp-validation-for="AddressStreet" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Images"></label>
+        <input asp-for="Images" class="form-control">
+        <span asp-validation-for="Images" class="text-danger"></span>
+    </div>
+
+    <div class="form-group" id="fieldsContainer">
+        <label asp-for="FootballFields"></label>
+        <span asp-validation-for="Images" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <a class="btn btn-success" onclick="addFootballField()">Add new football field</a>
+    </div>
+
+    <div class="form-group">
+        <input type="submit"/>
+    </div>
+</form>
+
+@section Scripts
+{
+    <script src="~/js/AddDynamicFootballField.js"></script>
+}
+

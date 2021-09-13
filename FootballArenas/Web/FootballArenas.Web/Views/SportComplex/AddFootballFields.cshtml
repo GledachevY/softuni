@@ -1,0 +1,29 @@
+﻿@using FootballArenas.Data.Models.CustomModels
+@model FootballArenas.Web.ViewModels.SportComplexViewModels.SportComplexInputViewModel
+
+@{
+    this.ViewData["Title"] = "Add new field";
+
+}
+<form asp-controller="SportComplex" asp-action="AddFootballFields" enctype="multipart/form-data">
+    <div class="form-group" asp-validation-summary="All"></div>
+
+    <div class="form-group" id="fieldsContainer">
+        <label asp-for="FootballFields"></label>
+        <span asp-validation-for="Images" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <a class="btn btn-success" onclick="addFootballField()">Add new football field</a>
+    </div>
+
+    <div class="form-group">
+        <input type="submit" />
+    </div>
+</form>
+
+@section Scripts
+{
+    <script src="~/js/AddDynamicFootballField.js"></script>
+}
+
